@@ -1,0 +1,9 @@
+version: "2"
+
+services:
+  app:
+    image: php:7-apache
+    ports:
+      - 5544:80
+    volumes:
+      - ./:/var/www

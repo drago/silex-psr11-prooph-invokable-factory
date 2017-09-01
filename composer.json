@@ -1,0 +1,20 @@
+{
+  "name": "drago/silex-psr11-prooph-invokable-factory",
+  "description": "Easy way to configure prooph servicebus in silex",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Michał Hytry",
+      "email": "mhytry@gmail.com"
+    }
+  ],
+  "require": {
+    "gromnan/pimple-interop": "1.0.x-dev",
+    "silex/silex": "v2.2.0",
+    "prooph/service-bus": "v6.0.3"
+  },
+  "require-dev": {
+    "sandrokeil/interop-config": "v2.1.0"
+  }
+}

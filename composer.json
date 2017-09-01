@@ -1,6 +1,6 @@
 {
   "name": "drago/silex-psr11-prooph-invokable-factory",
-  "description": "Easy way to configure prooph servicebus in silex",
+  "description": "Example of easy way to configure prooph servicebus in silex",
   "minimum-stability": "stable",
   "license": "proprietary",
   "authors": [
